@@ -2,7 +2,7 @@ import processing.pdf.*;
 
 void setup() {
   
-  size(1584, 396); 
+  size(1080, 1080); 
   pixelDensity(2);
 
   noFill();
