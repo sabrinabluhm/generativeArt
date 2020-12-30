@@ -26,7 +26,7 @@ void draw() {
     kreis();
     
    endRecord();
-   save("cross.png");
+   save("banner.png");
   
 }
 
@@ -37,7 +37,7 @@ void kreis() {
   
   float degrees              = 360 * 60;
   float step                 = 0.1;
-  float rotationOfCanvas     = 40;
+  float rotationOfCanvas     = 80;
   float numberOfIterations   = degrees / step;
   
    
