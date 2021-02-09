@@ -39,8 +39,8 @@ void randomLinesInRectangle(int count, float x1,  float y1, float x2, float y2, 
    float padding_main = 90;
    float padding_items = 15;
    
-   int numberOfTilesX = 14;
-   int numberOfTilesY = 14;
+   int numberOfTilesX = 10;
+   int numberOfTilesY = 10;
    
    /*
    float tileWidth = (width - ((numberOfTilesX + 1) * padding_items))/numberOfTilesX;
