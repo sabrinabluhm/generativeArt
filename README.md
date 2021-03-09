@@ -1,4 +1,4 @@
 # Generative Art
 
-Here are some examples of my artworks
+You will finde the code for some of my artworks here
 
